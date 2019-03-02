@@ -1,0 +1,31 @@
+Integrated Surface Database Station History, May 2017
+
+ USAF = Air Force station ID. May contain a letter in the first position.
+ WBAN = NCDC WBAN number
+ CTRY = FIPS country ID
+   ST = State for US stations
+ ICAO = ICAO ID
+  LAT = Latitude in thousandths of decimal degrees
+  LON = Longitude in thousandths of decimal degrees
+ ELEV = Elevation in meters
+BEGIN = Beginning Period Of Record (YYYYMMDD). There may be reporting gaps within the P.O.R.
+  END = Ending Period Of Record (YYYYMMDD). There may be reporting gaps within the P.O.R.
+  
+USAF   WBAN  STATION NAME                  CTRY ST CALL  LAT     LON      ELEV(M) BEGIN    END
+444040 99999 DADELDHURA                    NP            +29.300 +080.583 +1848.0 19780301 20170508
+444060 99999 DIPAYAL                       NP            +29.250 +080.950 +0617.0 20051012 20170508
+444090 99999 DHANGADHI (ATARIYA)           NP            +28.800 +080.550 +0187.0 20051012 20170508
+444160 99999 SURKHET                       NP      VNSK  +28.600 +081.617 +0720.0 19761101 20170508
+444180 99999 NEPALGUNJ AIRPORT             NP            +28.100 +081.667 +0165.0 20051012 20170508
+444240 99999 JUMLA                         NP      VNJL  +29.283 +082.167 +2300.0 19750913 20170508
+444290 99999 DANG                          NP            +28.050 +082.500 +0634.0 20051012 20170508
+444340 99999 POKHARA                       NP      VNPK  +28.201 +083.981 +0826.6 19770207 20170508
+444380 99999 BHAIRAHAWA                    NP      VNBW  +27.506 +083.416 +0109.1 19770302 20170508
+444490 99999 SIMARA                        NP      VNSI  +27.159 +084.980 +0137.2 19740110 20170508
+444540 99999 TRIBHUVAN INTL                NP      VNKT  +27.697 +085.359 +1338.1 19730521 20170508
+444600 99999 JIRI                          NP      VNJI  +27.633 +086.233 +2003.0 19780722 19780722
+444610 99999 SYANGBOCHE                    NP            +27.817 +086.717 +3700.0 19761101 19800210
+444620 99999 OKHALDHUNGA                   NP            +27.300 +086.500 +1720.0 19761101 20170508
+444740 99999 TAPLEJUNG                     NP      VNTJ  +27.350 +087.667 +1732.0 19780701 20170508
+444770 99999 DHANKUTA                      NP            +26.983 +087.350 +1210.0 19761101 20170508
+444780 99999 BIRATNAGAR                    NP      VNVT  +26.481 +087.264 +0071.9 19770208 20170508
